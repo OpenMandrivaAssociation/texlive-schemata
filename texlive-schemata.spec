@@ -6,7 +6,7 @@
 # catalog-version 0.7
 Name:		texlive-schemata
 Version:	0.7
-Release:	3
+Release:	4
 Summary:	Print topical diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/schemata
