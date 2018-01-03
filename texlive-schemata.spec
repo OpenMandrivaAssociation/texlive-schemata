@@ -1,12 +1,6 @@
-# revision 31743
-# category Package
-# catalog-ctan /macros/generic/schemata
-# catalog-date 2013-09-24 17:34:21 +0200
-# catalog-license lppl1.3
-# catalog-version 0.7
 Name:		texlive-schemata
-Version:	0.7
-Release:	9
+Version:	0.8
+Release:	1
 Summary:	Print topical diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/schemata
@@ -35,13 +29,10 @@ from late medieval and early modern periods.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/generic/schemata/schemata.sty
-%doc %{_texmfdistdir}/doc/generic/schemata/Makefile
-%doc %{_texmfdistdir}/doc/generic/schemata/README
-%doc %{_texmfdistdir}/doc/generic/schemata/schemata.pdf
+%{_texmfdistdir}/tex/generic/schemata
+%doc %{_texmfdistdir}/doc/generic/schemata
 #- source
-%doc %{_texmfdistdir}/source/generic/schemata/schemata.dtx
-%doc %{_texmfdistdir}/source/generic/schemata/schemata.ins
+%doc %{_texmfdistdir}/source/generic/schemata
 
 #-----------------------------------------------------------------------
 %prep
