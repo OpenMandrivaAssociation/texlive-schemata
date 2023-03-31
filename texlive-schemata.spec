@@ -1,6 +1,6 @@
 Name:		texlive-schemata
 Version:	58020
-Release:	1
+Release:	2
 Summary:	Print topical diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/generic/schemata
