@@ -3,7 +3,7 @@ Version:	58020
 Release:	2
 Summary:	Print topical diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/generic/schemata
+URL:		https://www.ctan.org/tex-archive/macros/generic/schemata
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schemata.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/schemata.doc.r%{version}.tar.xz
